@@ -137,9 +137,9 @@
           
           <category> 开源平台 </category>
           
-          <category> GitHub </category>
-          
           <category> gitee </category>
+          
+          <category> GitHub </category>
           
       </categories>
       
@@ -201,9 +201,9 @@
           
           <category> 实用软件 </category>
           
-          <category> Typora </category>
-          
           <category> PicGo </category>
+          
+          <category> Typora </category>
           
       </categories>
       
@@ -273,9 +273,9 @@
           
           <category> Hexo插件 </category>
           
-          <category> GitHub </category>
-          
           <category> gitee </category>
+          
+          <category> GitHub </category>
           
           <category> hexo-deployer-git </category>
           

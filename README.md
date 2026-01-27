@@ -2,7 +2,11 @@
 
 <h3 align="center">一个基于 Vue 3 + Vite + Tailwind CSS 的应用启动页</h3>
 
-![](https://image.thum.io/get/allowJPG/noanimate/https://www.o0w0b.top)
+<img 
+  src="https://image.thum.io/get/allowJPG/noanimate/https://www.o0w0b.top" 
+  style="display: block; margin: 0 auto; max-width: 100%;"
+  alt="网页截图"
+/>
 
 ## 配置
 

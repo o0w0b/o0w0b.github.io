@@ -2,7 +2,7 @@
 
 <h3 align="center">一个基于 Vue 3 + Vite + Tailwind CSS 的应用启动页</h3>
 
-![](https://image.thum.io/get/allowJPG/noanimate/https://o0w0b.top)
+![](https://image.thum.io/get/allowJPG/noanimate/https://www.o0w0b.top)
 
 ## 配置
 
